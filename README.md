@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/47919476/171075430-49869dc9-680f-43d3-84ab-4c7d173907b3.png)
+
+
 # POC Spartacus
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.17.
